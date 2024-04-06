@@ -22,3 +22,7 @@ irm https://massgrave.dev/ias | iex
 ```
 - It will show some options like.
 - You can activate anything from there.
+
+### For More Information
+- Visit the website: [massgrave.dev](https://massgrave.dev/index.html)
+- For source code please visit GitHub repository [repo](https://github.com/WindowsAddict/IDM-Activation-Script)
