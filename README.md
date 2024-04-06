@@ -2,23 +2,23 @@
 
 #### Processing
 
-- Run Windows Posershell in Admin mode
-- Write the below command in the command pallete and enter
+- Run Windows Powershell in Admin mode
+- Write the below command in the command palette and enter
 
 ```bash
 irm https://massgrave.dev/get | iex
 ```
-- It's will show some options like ( windows, ms office ).
-- You will be able to activate anything from here which are the appear.
+- It will show some options like ( windows and MS Office).
+- You will be able to activate anything from here which are that appear.
 
 
 ### Activate IDM (Internet Download Manager)
 
 #### Processing
-- Run Windows Posershell in Admin mode
-- Write the below command in the command pallete and enter
+- Run Windows Powershell in Admin mode
+- Write the below command in the command palette and enter
 ```bash
 irm https://massgrave.dev/ias | iex
 ```
-- It's will show some options like.
+- It will show some options like.
 - You can activate anything from there.
